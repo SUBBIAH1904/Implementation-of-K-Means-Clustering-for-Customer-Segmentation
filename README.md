@@ -9,8 +9,11 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1.Import dataset and print head,info of the dataset
+
 2.Import kmeans and fit it to the dataset
+
 3.Plot the graph using elbow method
+
 4.Plot the customer segment
 
 ## Program & Output:
